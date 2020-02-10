@@ -7,6 +7,7 @@ Course [Chief Information Manager](https://www.fir.rwth-aachen.de/qualifikation/
 [WordNet](http://wordnetweb.princeton.edu/perl/webwn)
 ### Natural Language Processing
 [DeepL Übersetzer](https://www.deepl.com/translator)
+
 [Transformer Text-Generator](https://talktotransformer.com/)
 ### Aktionsplanung und Optimierung
 [DeepMind lernt laufen](https://www.youtube.com/watch?v=gn4nRCC9TwQ) 
