@@ -1,4 +1,4 @@
-# CIM
+# CIM - KI
 Course [Chief Information Manager](https://www.fir.rwth-aachen.de/qualifikation/rwth-zertifikatskurse/chief-information-manager/) - Spring 2020 
 
 ## Links zu den Visualisierungen und Beispielen
